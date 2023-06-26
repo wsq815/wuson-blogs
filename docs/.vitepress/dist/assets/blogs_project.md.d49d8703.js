@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o}from"./chunks/framework.dfd49a90.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"blogs/project.md","filePath":"blogs/project.md"}'),r={name:"blogs/project.md"};function a(c,s,n,p,_,d){return t(),o("div")}const m=e(r,[["render",a]]);export{l as __pageData,m as default};
